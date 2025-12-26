@@ -15,3 +15,5 @@ While we have open source software, there may be times when we have to use **Pri
 
 All of our software is made with :white_heart:. Our engineers include:
 - [Opuqide](https://github.com/Opuqide)
+
+Join the [group](https://www.roblox.com/communities/788348153/Project-Alpine-Community#!/about) and the community server for more information and support!
